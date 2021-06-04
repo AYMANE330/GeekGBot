@@ -1,0 +1,8 @@
+{
+	"prefix": "!",
+	"token": "your-token-goes-here",
+	"db_host": "localhost",
+	"db_user": "root",
+	"db_password": "password-goes-here",
+	"db_database": "GeekGBot"
+}
